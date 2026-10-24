@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="24" viewBox="0 0 800 24">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0" stop-color="#26A5E4" stop-opacity="0"/>
+<stop offset=".3" stop-color="#26A5E4"/>
+<stop offset=".7" stop-color="#ff4fa3"/>
+<stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/>
+</linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="40" y="11" width="720" height="2" rx="1" fill="url(#g)"/>
+<rect x="40" y="11" width="720" height="2" rx="1" fill="url(#g)" filter="url(#b)" opacity=".8"/>
+<g>
+<path d="M0 -7 L5 0 L0 7 L-5 0 Z" fill="#fff"/>
+<path d="M0 -7 L5 0 L0 7 L-5 0 Z" fill="#26A5E4" filter="url(#b)"/>
+<animateMotion dur="4s" repeatCount="indefinite" path="M60 12 L740 12" keyPoints="0;1;0" keyTimes="0;.5;1" calcMode="linear"/>
+</g>
+</svg>
