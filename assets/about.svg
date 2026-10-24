@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
   <style>
-    text { font: 17px "Segoe UI", Tahoma, Arial, sans-serif; fill: #c9d1d9; }
-    .h { font-weight: 700; font-size: 20px; fill: #26A5E4; }
+    text { font: 16px "Segoe UI", Tahoma, Arial, sans-serif; fill: #c9d1d9; }
+    .title { font-weight: 700; font-size: 20px; fill: #26A5E4; filter: drop-shadow(0 0 5px rgba(38,165,228,0.4)); }
+    
+    /* Animation: Slide and Fade */
+    @keyframes fadeInLeft {
+      0% { transform: translateX(-20px); opacity: 0; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+    @keyframes fadeInRight {
+      0% { transform: translateX(20px); opacity: 0; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+    
+    .en { opacity: 0; animation: fadeInLeft 0.8s ease-out forwards; }
+    .ar { opacity: 0; animation: fadeInRight 0.8s ease-out forwards; }
+    
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.3s; }
+    .d3 { animation-delay: 0.6s; }
+    .d4 { animation-delay: 0.9s; }
+    .d5 { animation-delay: 1.2s; }
+    .d6 { animation-delay: 1.5s; }
   </style>
+  
   <rect width="800" height="250" rx="16" fill="#0d1117" stroke="#30363d"/>
   
-  <text class="h" x="30" y="42">About Me</text>
-  <text class="h" x="770" y="42" text-anchor="end">نبذة عني</text>
+  <text class="title en d1" x="40" y="45">About Me</text>
+  <text class="title ar d1" x="760" y="45" text-anchor="end">نبذة عني</text>
   
-  <text x="30" y="84">▸ Music lover &amp; content creator</text>
-  <text x="770" y="84" text-anchor="end">أحب الموسيقى وصناعة المحتوى ◂</text>
+  <text class="en d2" x="40" y="85">• Music lover &amp; content creator</text>
+  <text class="ar d2" x="760" y="85" text-anchor="end">أحب الموسيقى وصناعة المحتوى •</text>
   
-  <text x="30" y="118">▸ I write Python tools &amp; bots</text>
-  <text x="770" y="118" text-anchor="end">أبرمج أدوات وبوتات بـ بايثون ◂</text>
+  <text class="en d3" x="40" y="120">• I write Python tools &amp; bots</text>
+  <text class="ar d3" x="760" y="120" text-anchor="end">أبرمج أدوات وبوتات بـ بايثون •</text>
   
-  <text x="30" y="152">▸ Daily Linux user</text>
-  <text x="770" y="152" text-anchor="end">مستخدم لينكس يومياً ◂</text>
+  <text class="en d4" x="40" y="155">• Daily Linux user</text>
+  <text class="ar d4" x="760" y="155" text-anchor="end">مستخدم لينكس يومياً •</text>
   
-  <text x="30" y="186">▸ Fan of yt-dlp &amp; automation</text>
-  <text x="770" y="186" text-anchor="end">أحب الأتمتة و yt-dlp ◂</text>
+  <text class="en d5" x="40" y="190">• Fan of yt-dlp &amp; automation</text>
+  <text class="ar d5" x="760" y="190" text-anchor="end">أحب الأتمتة و yt-dlp •</text>
   
-  <text x="30" y="220">▸ From Iraq</text>
-  <text x="770" y="220" text-anchor="end">من العراق ◂</text>
+  <text class="en d6" x="40" y="225">• From Iraq</text>
+  <text class="ar d6" x="760" y="225" text-anchor="end">من العراق •</text>
 </svg>
