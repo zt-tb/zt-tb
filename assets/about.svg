@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260">
   <style>
-    text { font: 16px "Segoe UI", Tahoma, Arial, sans-serif; fill: #c9d1d9; }
-    .title { font-weight: 700; font-size: 20px; fill: #26A5E4; filter: drop-shadow(0 0 5px rgba(38,165,228,0.4)); }
+    text { font: 15px "Segoe UI", Tahoma, Arial, sans-serif; fill: #c9d1d9; }
+    .title { font-weight: 700; font-size: 19px; fill: #26A5E4; filter: drop-shadow(0 0 5px rgba(38,165,228,0.4)); }
+    .highlight { fill: #ff4a4a; font-weight: bold; }
     
-    /* Animation: Slide and Fade */
     @keyframes fadeInLeft {
       0% { transform: translateX(-20px); opacity: 0; }
       100% { transform: translateX(0); opacity: 1; }
@@ -25,23 +25,23 @@
     .d6 { animation-delay: 1.5s; }
   </style>
   
-  <rect width="800" height="250" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect width="800" height="260" rx="16" fill="#0d1117" stroke="#30363d"/>
   
   <text class="title en d1" x="40" y="45">About Me</text>
   <text class="title ar d1" x="760" y="45" text-anchor="end">نبذة عني</text>
   
-  <text class="en d2" x="40" y="85">• Music lover &amp; content creator</text>
-  <text class="ar d2" x="760" y="85" text-anchor="end">أحب الموسيقى وصناعة المحتوى •</text>
+  <text class="en d2" x="40" y="85">🎮 Gaming Content Creator &amp; Storyteller</text>
+  <text class="ar d2" x="760" y="85" text-anchor="end">صانع محتوى وقصص ألعاب 🎮</text>
   
-  <text class="en d3" x="40" y="120">• I write Python tools &amp; bots</text>
-  <text class="ar d3" x="760" y="120" text-anchor="end">أبرمج أدوات وبوتات بـ بايثون •</text>
+  <text class="en d3" x="40" y="118">🐍 Python Developer | Telegram Bots</text>
+  <text class="ar d3" x="760" y="118" text-anchor="end">مطور بايثون وبوتات تليكرام 🐍</text>
   
-  <text class="en d4" x="40" y="155">• Daily Linux user</text>
-  <text class="ar d4" x="760" y="155" text-anchor="end">مستخدم لينكس يومياً •</text>
+  <text class="en d4" x="40" y="151">🐧 Daily Linux user &amp; automation fan</text>
+  <text class="ar d4" x="760" y="151" text-anchor="end">مستخدم لينكس ومهتم بالأتمتة 🐧</text>
   
-  <text class="en d5" x="40" y="190">• Fan of yt-dlp &amp; automation</text>
-  <text class="ar d5" x="760" y="190" text-anchor="end">أحب الأتمتة و yt-dlp •</text>
+  <text class="en d5" x="40" y="184">🎵 Music lover &amp; visual creator</text>
+  <text class="ar d5" x="760" y="184" text-anchor="end">محب للموسيقى وصانع محتوى بصري 🎵</text>
   
-  <text class="en d6" x="40" y="225">• From Iraq</text>
-  <text class="ar d6" x="760" y="225" text-anchor="end">من العراق •</text>
+  <text class="en d6" x="40" y="225" fill="#8b949e">🌐 mo7sen.netlify.app | Iraq 🇮🇶</text>
+  <text class="ar d6" x="760" y="225" text-anchor="end" fill="#8b949e">العراق 🇮🇶 | mo7sen.netlify.app 🌐</text>
 </svg>
