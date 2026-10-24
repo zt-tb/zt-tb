@@ -3,7 +3,6 @@
   <style>
     text { font: 15px "Segoe UI", Tahoma, Arial, sans-serif; fill: #c9d1d9; }
     .title { font-weight: 700; font-size: 19px; fill: #26A5E4; filter: drop-shadow(0 0 5px rgba(38,165,228,0.4)); }
-    .highlight { fill: #ff4a4a; font-weight: bold; }
     
     @keyframes fadeInLeft {
       0% { transform: translateX(-20px); opacity: 0; }
@@ -30,8 +29,8 @@
   <text class="title en d1" x="40" y="45">About Me</text>
   <text class="title ar d1" x="760" y="45" text-anchor="end">نبذة عني</text>
   
-  <text class="en d2" x="40" y="85">🎮 Gaming Content Creator &amp; Storyteller</text>
-  <text class="ar d2" x="760" y="85" text-anchor="end">صانع محتوى وقصص ألعاب 🎮</text>
+  <text class="en d2" x="40" y="85">🎮 Gaming Content Creator</text>
+  <text class="ar d2" x="760" y="85" text-anchor="end">صانع محتوى ألعاب 🎮</text>
   
   <text class="en d3" x="40" y="118">🐍 Python Developer | Telegram Bots</text>
   <text class="ar d3" x="760" y="118" text-anchor="end">مطور بايثون وبوتات تليكرام 🐍</text>
