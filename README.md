@@ -20,15 +20,11 @@
 
 ## 📱 Follow Me &nbsp;|&nbsp; تابعني
 
-<a href="https://t.me/K0_MG"><img src="assets/social.svg" width="100%" alt="Telegram · Instagram · TikTok · YouTube · GitHub" /></a>
-
-<sub>
-<a href="https://t.me/K0_MG">Telegram</a> ·
-<a href="https://www.instagram.com/z0_28">Instagram</a> ·
-<a href="https://www.tiktok.com/@zt_tb">TikTok</a> ·
-<a href="https://youtube.com/@m7jn">YouTube</a> ·
-<a href="https://github.com/zt-tb">GitHub</a>
-</sub>
+<a href="https://t.me/K0_MG"><img src="assets/icon-telegram.svg" width="76" alt="Telegram" /></a>
+<a href="https://www.instagram.com/z0_28"><img src="assets/icon-instagram.svg" width="76" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@zt_tb"><img src="assets/icon-tiktok.svg" width="76" alt="TikTok" /></a>
+<a href="https://youtube.com/@m7jn"><img src="assets/icon-youtube.svg" width="76" alt="YouTube" /></a>
+<a href="https://github.com/zt-tb"><img src="assets/icon-github.svg" width="76" alt="GitHub" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
