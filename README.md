@@ -2,8 +2,6 @@
 
 <img src="assets/header.svg" width="100%" alt="header" />
 
-<img src="assets/ascii-name.svg" width="420" alt="ZT-TB" />
-
 <a href="https://github.com/zt-tb"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&multiline=false&width=620&height=50&lines=%F0%9F%91%8B+Welcome+to+my+profile+%7C+%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D8%A8%D9%83+%D9%81%D9%8A+%D8%A8%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D9%84%D9%8A;%F0%9F%8E%B5+Music+Lover+%7C+%F0%9F%90%8D+Python+Dev+%7C+%F0%9F%90%A7+Linux+User;%E2%9A%A1+Building+small+tools+that+matter;%E2%9C%A8+Follow+me+on+social+media" alt="typing" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=zt-tb&label=Profile%20views&color=00FF9C&labelColor=020403&style=for-the-badge" alt="views" />
