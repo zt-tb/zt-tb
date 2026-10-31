@@ -384,6 +384,7 @@ text{font-family:"Segoe UI",Arial,sans-serif}
 <g class="b" style="animation-delay:0.62s"><polygon points="553.9,495.5 561.7,500.0 553.9,504.5 546.1,500.0" fill="#1c2233"/><polygon points="546.1,500.0 553.9,504.5 553.9,507.0 546.1,502.5" fill="#11151f"/><polygon points="553.9,504.5 561.7,500.0 561.7,502.5 553.9,507.0" fill="#161b28"/></g>
 <g class="b" style="animation-delay:0.61s"><polygon points="525.4,436.5 533.2,441.0 525.4,445.5 517.5,441.0" fill="#ff4fa3"/><polygon points="517.5,441.0 525.4,445.5 525.4,512.5 517.5,508.0" fill="#9e3065"/><polygon points="525.4,445.5 533.2,441.0 533.2,508.0 525.4,512.5" fill="#cc3f82"/></g>
 <g class="b" style="animation-delay:0.62s"><polygon points="544.4,501.0 552.2,505.5 544.4,510.0 536.6,505.5" fill="#1c2233"/><polygon points="536.6,505.5 544.4,510.0 544.4,512.5 536.6,508.0" fill="#11151f"/><polygon points="544.4,510.0 552.2,505.5 552.2,508.0 544.4,512.5" fill="#161b28"/></g>
+<g class="b" style="animation-delay:0.62s"><polygon points="534.9,506.5 542.7,511.0 534.9,515.5 527.1,511.0" fill="#1c2233"/><polygon points="527.1,511.0 534.9,515.5 534.9,518.0 527.1,513.5" fill="#11151f"/><polygon points="534.9,515.5 542.7,511.0 542.7,513.5 534.9,518.0" fill="#161b28"/></g>
 <text x="30" y="533" fill="#9aa0b4" font-size="12">Less</text>
 <rect x="70" y="522" width="14" height="14" rx="3" fill="#1c2233"/>
 <rect x="90" y="522" width="14" height="14" rx="3" fill="#1b7fa8"/>
